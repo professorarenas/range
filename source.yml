@@ -1,0 +1,6 @@
+manifest_version: 1
+name: "Professor Arenas Ranges"
+description: "Lab ranges for cybersecurity courses"
+authors:
+  - "Victor Arenas"
+homepage: https://github.com/professorarenas/range

@@ -1,0 +1,7 @@
+manifest_version: 1
+id: starter-lab
+name: "Starter Lab"
+description: "Single Debian 12 server sized for a small host"
+version: 1.0.0
+tags: [starter]
+config: range-config.yml
